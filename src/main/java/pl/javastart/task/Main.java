@@ -10,7 +10,7 @@ public class Main {
         String producerSec = "Wedel";
         double prizeSec = 2.19;
 
-        System.out.println(nameProdFirst + " " + producerFirst + " " + prizeFirst +"zł");
-        System.out.println(nameProdSec + " " + producerSec + " " + prizeSec +"zł");
+        System.out.println(nameProdFirst + " " + producerFirst + " " + prizeFirst + "zł");
+        System.out.println(nameProdSec + " " + producerSec + " " + prizeSec + "zł");
     }
 }
